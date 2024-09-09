@@ -7,15 +7,15 @@ The goal of this repository is to document my journey in learning Java, covering
 Course Contents:
 
 Introduction to Java
-Setup Java Environment.
-Operator and Expressions.
-String Class and Printing.
-Conditional Statements.
-Loops.
-Arrays.
-Methods.
-Object-Oriented Programming.
-Inheritance.
+Setup Java Environment
+Operator and Expressions
+String Class and Printing
+Conditional Statements
+Loops
+Arrays
+Methods
+Object-Oriented Programming
+Inheritance
 Abstract Classes
 Interfaces
 Inner Classes
