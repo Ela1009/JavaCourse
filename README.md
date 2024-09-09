@@ -6,32 +6,28 @@ The goal of this repository is to document my journey in learning Java, covering
 
 Course Contents:
 
-Introduction to Java
-Setup Java Environment
-Operator and Expressions
-String Class and Printing
-Conditional Statements
-Loops
-Arrays
-Methods
-Object-Oriented Programming
-Inheritance
-Abstract Classes
-Interfaces
-Inner Classes
-Static and Final
-Packages
-Exception Handling
-Multithreading
-java.lang Package
-Annotations and Javadoc
-Lambda Expressions
-Java IO
-Collection Framework
-Network Programming
-AWT
-
-Swing
-
-
+* Introduction to Java
+* Setup Java Environment
+* Operator and Expressions
+* String Class and Printing
+* Conditional Statements
+* Loops
+* Arrays
+* Methods
+* Object-Oriented Programming
+* Inheritance
+* Abstract Classes
+* Interfaces
+* Inner Classes
+* Static and Final
+* Packages
+* Exception Handling
+* Multithreading
+* java.lang Package
+* Annotations and Javadoc
+* Lambda Expressions
+* Java IO
+* Collection Framework
+* Network Programming
+* AWT
   
