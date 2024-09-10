@@ -4,7 +4,7 @@ This repository contains exercises and code examples from the Udemy course "Deep
  
 The goal of this repository is to document my journey in learning Java, covering essential topics such as variables, loops, arrays, object-oriented programming (OOP), and more.  
 
-Course Contents:
+<b>Course Contents:</b>
 
 * Introduction to Java
 * Setup Java Environment
