@@ -31,5 +31,6 @@ The goal of this repository is to document my journey in learning Java, covering
 * Network Programming
 * AWT
   
-Tools : JDK
-IDE : Netbeans 
+<b>Tools:</b> JDK
+
+<b>IDE:</b> Netbeans 
