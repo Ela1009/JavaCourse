@@ -29,7 +29,6 @@ The goal of this repository is to document my journey in learning Java, covering
 * Java IO
 * Collection Framework
 * Network Programming
-* AWT
   
 <b>Tools:</b> JDK
 
